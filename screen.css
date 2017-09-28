@@ -59,13 +59,13 @@ a {
   padding: 50px; }
 
 p{
-  color: red; border: 3px red; 
+  color: red; font-size: 6; border: 3px red; 
 }
 
 h1{
-  color: blue; border: 3px darkblue;
+  color: blue; font-size: 15; border: 3px darkblue;
 }
 
 h2{
-  color: darkblue;
+  color: darkblue; font-size: 10;
 }

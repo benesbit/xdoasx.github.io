@@ -63,15 +63,17 @@ h1{
   background-color: pink; 
   font-size: 15;
   border: 2px dashed red;
+  text-align: center;
 }
 
 h2{
   color: darkblue; 
   font-size: 10;
+  text-align: center;
 }
 
 p{
   color: red; 
   font-size: 6; 
-  border: 2px solid red; 
+  border: 2px solid blue; 
 }

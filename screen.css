@@ -58,14 +58,14 @@ a {
 #main {
   padding: 50px; }
 
-p{
-  color: red; font-size: 6; border: 3px red; 
-}
-
 h1{
-  color: blue; font-size: 15; border: 3px solid blue;
+  color: blue; font-size: 15; border: 2px dashed red;
 }
 
 h2{
   color: darkblue; font-size: 10;
+}
+
+p{
+  color: red; font-size: 6; border: 3px solid red; 
 }

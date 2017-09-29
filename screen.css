@@ -63,7 +63,7 @@ p{
 }
 
 h1{
-  color: blue; font-size: 15; border: 3px darkblue;
+  color: blue; font-size: 15; border: 3px solid blue;
 }
 
 h2{

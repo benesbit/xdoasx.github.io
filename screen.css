@@ -87,6 +87,7 @@ h3 {
 h4 {
   color: darkgreen;
   float: right;
+  text-align: left;
   /*display: inline-block;*/
 }
 

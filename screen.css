@@ -109,6 +109,11 @@ p2{
   text-align: center;
 }
 
+#Burrito_Container {
+  text-align: center;
+}
+
 #Burritos {
   border: dashed green;
+  display: inline-block;
 }

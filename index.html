@@ -19,22 +19,23 @@
         <a href="Nesbit Resume 3.doc">My Resume</a>
       </div>
     </div>
-    <div id="Burritos">
-      <script type="text/javascript">
-        function random_burrito_link() {
-          var determine_link = Math.round(Math.random()*2);
-          var link1 = "http://chronictacos.com";
-          var link2 = "http://primosmex.com/";
-          var link3 = "http://www.cotixanmexicanrestaurant.com/";
-          if (determine_link == 0) window.location = link1;
-          else if (determine_link == 1) window.location = link2;
-          else if (determine_link == 2) window.location = link3;
-        }
-       // <p2><a href="http://chronictacos.com">Burritos are freaking bomb</a></p2>
-      </script>
-      <form>
-        <input type="button" value="BURRITOS ARE BOMB!" onclick="random_burrito_link()">
-      </form>
+    <div id="Burrito_Container">
+      <div id="Burritos">
+        <script type="text/javascript">
+         function random_burrito_link() {
+           var determine_link = Math.round(Math.random()*2);
+           var link1 = "http://chronictacos.com";
+           var link2 = "http://primosmex.com/";
+           var link3 = "http://www.cotixanmexicanrestaurant.com/";
+           if (determine_link == 0) window.location = link1;
+           else if (determine_link == 1) window.location = link2;
+           else if (determine_link == 2) window.location = link3;
+         }
+       </script>
+        <form>
+          <input type="button" value="BURRITOS ARE BOMB!" onclick="random_burrito_link()">
+        </form>
+      </div>
     </div>
   </body>
 </html>

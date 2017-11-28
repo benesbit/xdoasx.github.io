@@ -63,6 +63,12 @@ h1{
   background-color: pink; 
   font-size: 15;
   border: 2px dashed red;
+  padding: 2px;
+  text-align: center;
+  display: inline-block;
+}
+
+#Header_01 {
   text-align: center;
 }
 
@@ -70,6 +76,12 @@ h2{
   color: darkblue; 
   font-size: 10;
   text-align: center;
+}
+
+#Twitch_Box {
+  border: 2px solid red;
+  display: inline-block;
+  padding: 2px;
 }
 
 p{
@@ -91,6 +103,7 @@ p2{
 
 #Resume {
   border: 4px solid red;
+  padding: 2px;
   margin: 10px;
   display: inline-block;
   text-align: center;

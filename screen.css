@@ -78,6 +78,11 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  color: darkgreen;
+  text-align: center;
+}
+
 #Twitch_Box {
   border: 2px solid red;
   display: inline-block;

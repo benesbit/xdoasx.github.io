@@ -88,18 +88,31 @@ h4 {
   color: darkgreen;
   float: right;
   text-align: left;
-  /*display: inline-block;*/
+}
+
+h5 {
+  color: #6441a5;
+  font-size: 10;
+  text-align: center;
 }
 
 #Stream_Box {
   border: 2px solid #6441a5;
+  padding: 2px;
+  margin: 2px;
   display: inline-block;
+  text-align: center;
+}
+
+#Stream_Box_Container{
+  text-align: center;
 }
 
 #GitHub_Box {
   border: 2px solid red;
   display: inline-block;
   padding: 2px;
+  margin: 2px;
 }
 
 #Twitch_Box {

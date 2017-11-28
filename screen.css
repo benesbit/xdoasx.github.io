@@ -122,16 +122,10 @@ p2 {
 
 #Zom_Pic {
   padding: 10px;
-  float: left;
-}
-
-#Zom_Link {
-  float: left;
 }
 
 #Zombulator_Container {
   text-align: center;
-  position: absolute;
 }
 
 #Zom_Box {
@@ -140,7 +134,6 @@ p2 {
 
 #Burrito_Container {
   text-align: center;
-  position: relative;
 }
 
 #Burritos {

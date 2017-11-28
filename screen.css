@@ -114,6 +114,8 @@ p2{
 }
 
 #Burritos {
+  border: 4px dashed;
+  padding: 1px;
   border-color: red;
   display: inline-block;
 }

@@ -86,7 +86,7 @@ h3 {
 
 h4 {
   color: darkgreen;
-  float: right;
+  /*float: right;*/
   text-align: left;
   font-size: 15;
 }
@@ -159,6 +159,8 @@ p2 {
 
 #Zom_Box {
   text-align: left;
+  border: 2px solid;
+  border-color: green;
 }
 
 #Burrito_Container {

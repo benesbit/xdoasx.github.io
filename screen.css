@@ -87,7 +87,7 @@ h3 {
 h4 {
   color: darkgreen;
   /*float: right;*/
-  text-align: left;
+  text-align: center;
   font-size: 15px;
 }
 
@@ -170,7 +170,7 @@ p2 {
 }
 
 #Zom_Box {
-  text-align: left;
+  text-align: center;
 }
 
 #Burrito_Container {

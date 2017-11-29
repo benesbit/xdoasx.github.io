@@ -109,8 +109,15 @@ h5 {
 }
 
 #GitHub_Container {
+  text-align: center;
+}
+
+#GitHub_Box {
   border: 2px solid;
   border-color: #1a53ff;
+  display: inline-block;
+  padding: 2px;
+  margin: 5px;
 }
 
 #GitHub_Link_Box {

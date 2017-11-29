@@ -165,13 +165,18 @@ p2 {
 
 #Zombulator_Container {
   text-align: center;
-  border: 2px solid;
-  border-color: darkgreen;
-  padding: 2px;
-  margin: 5px;
 }
 
 #Zom_Box {
+  text-align: center;
+  border: 2px solid;
+  border-color: darkgreen;
+  padding: 5px;
+  margin: 5px;
+  display: inline-block;
+}
+
+#Zom_Screenshot_Box {
   text-align: center;
 }
 

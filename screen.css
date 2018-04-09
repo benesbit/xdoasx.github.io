@@ -201,3 +201,24 @@ p2 {
   border-color: red;
   display: inline-block;
 }
+
+#Nyan_Container {
+  text-align: center;
+}
+
+#Nyan_Box {
+  text-align: center;
+  border: 2px solid;
+  border-color: darkred;
+  padding: 5px;
+  margin: 5px;
+  display: inline-block;
+}
+
+#Nyan_Screenshot_Box {
+  text-align: center;
+}
+
+#Nyan_Pic {
+  padding: 10px;
+}
